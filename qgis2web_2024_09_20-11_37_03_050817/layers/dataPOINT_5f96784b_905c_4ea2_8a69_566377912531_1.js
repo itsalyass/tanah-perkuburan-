@@ -1,0 +1,1 @@
+var json_dataPOINT_5f96784b_905c_4ea2_8a69_566377912531_1 = {"type":"FeatureCollection","name":"dataPOINT_5f96784b_905c_4ea2_8a69_566377912531_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
